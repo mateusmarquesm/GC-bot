@@ -1,4 +1,5 @@
 from bs4 import BeautifulSoup
+import requests
 
 '''
 1 - A acessar o link de transmissão no YouTube Studio
